@@ -7,16 +7,16 @@
   "inheritCreationOrder": false,
   "inheritLayers": false,
   "instanceCreationOrder": [
-    {"name":"inst_A571952","path":"rooms/scene4_painting_introduction_1/scene4_painting_introduction_1.yy",},
     {"name":"inst_2AD685B","path":"rooms/scene4_painting_introduction_1/scene4_painting_introduction_1.yy",},
-    {"name":"inst_18A8D631","path":"rooms/scene4_painting_introduction_1/scene4_painting_introduction_1.yy",},
+    {"name":"inst_2630BC2A","path":"rooms/scene4_painting_introduction_1/scene4_painting_introduction_1.yy",},
+    {"name":"inst_611221EC","path":"rooms/scene4_painting_introduction_1/scene4_painting_introduction_1.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_A571952","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_painting1","path":"objects/obj_painting1/obj_painting1.yy",},"properties":[],"rotation":0.0,"scaleX":1.1777778,"scaleY":1.1371429,"x":544.0,"y":512.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2AD685B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_painting_description","path":"objects/obj_painting_description/obj_painting_description.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1088.0,"y":96.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_18A8D631","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_ui_botton","path":"objects/obj_ui_botton/obj_ui_botton.yy",},"properties":[],"rotation":0.0,"scaleX":0.14973544,"scaleY":0.09809457,"x":1671.5,"y":839.0105,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2630BC2A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_scene4_botton","path":"objects/obj_scene4_botton/obj_scene4_botton.yy",},"properties":[],"rotation":0.0,"scaleX":0.13806127,"scaleY":0.099667005,"x":1646.5321,"y":845.87317,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_611221EC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_level1_introduction_painting","path":"objects/obj_level1_introduction_painting/obj_level1_introduction_painting.yy",},"properties":[],"rotation":0.0,"scaleX":2.2093444,"scaleY":2.2093441,"x":512.0,"y":512.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"spr_background_scene4","path":"sprites/spr_background_scene4/spr_background_scene4.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
