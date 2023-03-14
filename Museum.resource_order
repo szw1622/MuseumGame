@@ -39,6 +39,7 @@
     {"name":"scene7_false","order":5,"path":"rooms/scene7_false/scene7_false.yy",},
     {"name":"spr_background_scene4","order":2,"path":"sprites/spr_background_scene4/spr_background_scene4.yy",},
     {"name":"spr_fake3","order":2,"path":"sprites/spr_fake3/spr_fake3.yy",},
+    {"name":"asdasdasd","order":6,"path":"sprites/asdasdasd/asdasdasd.yy",},
     {"name":"obj_fake3","order":1,"path":"objects/obj_fake3/obj_fake3.yy",},
     {"name":"fnt_botton","order":1,"path":"fonts/fnt_botton/fnt_botton.yy",},
     {"name":"spr_background_scene5","order":3,"path":"sprites/spr_background_scene5/spr_background_scene5.yy",},
