@@ -74,7 +74,6 @@
     {"id":{"name":"spr_background_scene5","path":"sprites/spr_background_scene5/spr_background_scene5.yy",},},
     {"id":{"name":"obj_fake_parent","path":"objects/obj_fake_parent/obj_fake_parent.yy",},},
     {"id":{"name":"spr_dialog_box","path":"sprites/spr_dialog_box/spr_dialog_box.yy",},},
-    {"id":{"name":"obj_test_2","path":"objects/obj_test_2/obj_test_2.yy",},},
     {"id":{"name":"scene4_painting_introduction_1","path":"rooms/scene4_painting_introduction_1/scene4_painting_introduction_1.yy",},},
     {"id":{"name":"spr_fake2","path":"sprites/spr_fake2/spr_fake2.yy",},},
     {"id":{"name":"obj_grey_mask","path":"objects/obj_grey_mask/obj_grey_mask.yy",},},
