@@ -1,7 +1,7 @@
 randomize();
 
 sprite_index = spr_test;
-random_number = irandom(3);
+random_number = irandom(2);
 show_debug_message("random_number: " + string(random_number));
 
 switch(random_number){
