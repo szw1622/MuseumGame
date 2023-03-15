@@ -15,10 +15,7 @@
     "name": "obj_scene3",
     "path": "folders/Objects/obj_scene3.yy",
   },
-  "parentObjectId": {
-    "name": "obj_fake_parent",
-    "path": "objects/obj_fake_parent/obj_fake_parent.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
