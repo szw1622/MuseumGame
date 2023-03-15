@@ -36,6 +36,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Scene5","folderPath":"folders/Sprites/Scene5.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"level1","folderPath":"folders/Sprites/Scene5/level1.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"xingkong_ture","folderPath":"folders/Tile Sets/xingkong_ture.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,

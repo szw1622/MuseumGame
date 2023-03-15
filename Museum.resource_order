@@ -24,6 +24,7 @@
     {"name":"Scene5","order":4,"path":"folders/Sprites/Scene5.yy",},
     {"name":"level1","order":1,"path":"folders/Sprites/Scene5/level1.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
+    {"name":"xingkong_ture","order":1,"path":"folders/Tile Sets/xingkong_ture.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"fnt_painting_description","order":1,"path":"fonts/fnt_painting_description/fnt_painting_description.yy",},
