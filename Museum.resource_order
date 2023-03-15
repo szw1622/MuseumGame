@@ -47,6 +47,7 @@
     {"name":"fnt_botton","order":1,"path":"fonts/fnt_botton/fnt_botton.yy",},
     {"name":"spr_background_scene5","order":3,"path":"sprites/spr_background_scene5/spr_background_scene5.yy",},
     {"name":"obj_fake_parent","order":2,"path":"objects/obj_fake_parent/obj_fake_parent.yy",},
+    {"name":"obj_test_2","order":13,"path":"objects/obj_test_2/obj_test_2.yy",},
     {"name":"scene4_painting_introduction_1","order":2,"path":"rooms/scene4_painting_introduction_1/scene4_painting_introduction_1.yy",},
     {"name":"spr_fake2","order":1,"path":"sprites/spr_fake2/spr_fake2.yy",},
     {"name":"obj_grey_mask","order":1,"path":"objects/obj_grey_mask/obj_grey_mask.yy",},
