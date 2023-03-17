@@ -93,10 +93,10 @@
     {"id":{"name":"scene2_back_story","path":"rooms/scene2_back_story/scene2_back_story.yy",},},
   ],
   "RoomOrderNodes": [
+    {"roomId":{"name":"scene5_level_1","path":"rooms/scene5_level_1/scene5_level_1.yy",},},
     {"roomId":{"name":"scene2_back_story","path":"rooms/scene2_back_story/scene2_back_story.yy",},},
     {"roomId":{"name":"scene3_level_selection","path":"rooms/scene3_level_selection/scene3_level_selection.yy",},},
     {"roomId":{"name":"scene4_painting_introduction_1","path":"rooms/scene4_painting_introduction_1/scene4_painting_introduction_1.yy",},},
-    {"roomId":{"name":"scene5_level_1","path":"rooms/scene5_level_1/scene5_level_1.yy",},},
     {"roomId":{"name":"scene6_true","path":"rooms/scene6_true/scene6_true.yy",},},
     {"roomId":{"name":"scene7_false","path":"rooms/scene7_false/scene7_false.yy",},},
   ],
