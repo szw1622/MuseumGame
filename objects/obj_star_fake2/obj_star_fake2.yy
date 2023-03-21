@@ -12,10 +12,7 @@
     "name": "level2",
     "path": "folders/Objects/obj_scene5/level2.yy",
   },
-  "parentObjectId": {
-    "name": "obj_fake_parent",
-    "path": "objects/obj_fake_parent/obj_fake_parent.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
