@@ -28,3 +28,8 @@ text_spd = 1;
 
 setup = false;
 accept_key = false;
+
+// 播放音乐
+if !audio_is_playing(Snd_bgm) { // 检查音乐是否正在播放
+    audio_play_sound(Snd_bgm, 1, true); // 播放音乐文件
+}
